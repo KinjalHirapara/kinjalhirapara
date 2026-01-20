@@ -23,11 +23,11 @@ I specialize in **data-heavy dashboards, CMS systems, and SaaS platforms** with 
 - React user app + Angular admin dashboard  
 - Node.js + PostgreSQL backend  
 - Supabase storage + Playwright automation  
-- Dynamic template system & screenshot generation
+- Dynamic template system
 
 ### 🔹 Predictable Data (US Client Project)
 - Data quality analytics platform  
-- Complex data grids, workflow UI, dashboards  
+- Complex data grids, workflow UI  
 - Enterprise-scale React application for real business users
 
 ---

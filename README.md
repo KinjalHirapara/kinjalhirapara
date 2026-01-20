@@ -1,6 +1,6 @@
 # Hi, I'm Kinjal 👋
 
-Software Engineer
+Software Developer | Front End Developer
 
 I build scalable, user-focused web applications using **React, Angular, TypeScript, and Node.js**.  
 I specialize in **data-heavy dashboards, CMS systems, and SaaS platforms** with a strong focus on performance and clean architecture.

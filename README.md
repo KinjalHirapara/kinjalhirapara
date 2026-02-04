@@ -33,7 +33,6 @@ Frontend Developer with expertise in building scalable, responsive, and user-fri
 
 - Codex(ChatGPT), Claude Code(anthropic)
 
-
 ## Current Projects
 
 ### Multi-Tenant Portfolio Builder
@@ -53,8 +52,6 @@ Frontend Developer with expertise in building scalable, responsive, and user-fri
 - Improving WordPress Content and UI
 - Building new service pages and layouts
 - Performance and accessibility improvements
-
----
 
 ## What I Focus On
 

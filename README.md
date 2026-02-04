@@ -61,12 +61,8 @@ Frontend Developer with expertise in building scalable, responsive, and user-fri
 - Real-world problem solving
 - Using AI tools to improve development workflow
 
----
-
 ## Contact Me
 
 - Portfolio: https://kinjal01portfolio.netlify.app
 - LinkedIn: https://www.linkedin.com/in/kinjalhirapara/
 - Email: kinjalhirapara25@gmail.com
-
----

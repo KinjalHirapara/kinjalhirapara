@@ -33,7 +33,6 @@ Frontend Developer with expertise in building scalable, responsive, and user-fri
 
 - Codex(ChatGPT), Claude Code(anthropic)
 
----
 
 ## Current Projects
 

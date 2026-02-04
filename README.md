@@ -1,38 +1,55 @@
-# Hi, I'm Kinjal 👋
 
-Software Developer | Front End Developer
+Frontend Developer with strong user interface engineering skills and practical full-stack experience.
+I specialize in building scalable, responsive, and user-friendly web interfaces, while leveraging practical backend knowledge to collaborate effectively across full-stack teams.
 
-I build scalable, user-focused web applications using **React, Angular, TypeScript, and Node.js**.  
-I specialize in **scalable dashboards, CMS systems, and SaaS platforms** with a strong focus on performance and clean architecture.
+## Tech Stack
+
+### Frontend (Primary Focus)
+
+- HTML, CSS, JavaScript, TypeScript  
+- React, Angular  
+- Tailwind CSS, Bootstrap  
+- Responsive & accessible UI development  
+- consuming REST API 
+- Building responsive, accessible, and performance-focused user interfaces  
+
+### Backend (Working Knowledge)
+
+- Node.js, Express  
+- PostgreSQL, Supabase  
+- Designing  REST API  
+
+### Testing & Debugging
+
+- Jest, React Testing Library
+- Unit and integration testing
+
+### Tools & Workflow
+
+- Version Control: Git, GitHub, Bitbucket
+- CI/CD / Build Tools: Netlify (CI/CD), Jenkins, Webpack, NPM
+- Methodologies: Agile, Scrum, DevOps practices
+
+### AI Tools
+
+- Codex(ChatGPT), Claude Code(anthropic)
 
 ---
 
-## 🚀 Tech Stack
+## Current Projects
 
-- **Frontend:** React, Angular, TypeScript, JavaScript, Tailwind, SCSS
-- **Backend:** Node.js, Express
-- **Database:** PostgreSQL, Supabase
-- **Tools:** Git, GitHub, Playwright, Claude Code, VS Code
-- **UI/Design:** Figma, Canva
-
----
-
-## 🧩 Current & Recent Projects
-
-### 🔹 Multi-Tenant Portfolio Builder (SaaS)
-- React user app + Angular admin dashboard  
+### Multi-Tenant Portfolio Builder
+- Angular dashboard  
 - Node.js + PostgreSQL backend  
 - Supabase storage + Playwright automation  
 - Dynamic template system
 
-### 🔹 Predictable Data (US Client Project)
+### Predictable Data (US Client Project)
 - Data quality analytics platform  
 - Complex data grids, workflow UI  
 - Enterprise-scale React application for real business users
 
----
-
-## 🤝 Volunteer Work
+## Volunteer Work
 
 **Volunteer Web Developer – Youthline Christchurch**
 - Improving WordPress Content and UI
@@ -41,7 +58,7 @@ I specialize in **scalable dashboards, CMS systems, and SaaS platforms** with a 
 
 ---
 
-## 💡 What I Focus On
+## What I Focus On
 
 - Clean, maintainable code
 - Performance optimization
@@ -51,10 +68,10 @@ I specialize in **scalable dashboards, CMS systems, and SaaS platforms** with a 
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-- 🌐 Portfolio: https://kinjal01portfolio.netlify.app
-- 💼 LinkedIn: https://www.linkedin.com/in/kinjalhirapara/
-- 📧 Email: kinjalhirapara25@gmail.com
+- Portfolio: https://kinjal01portfolio.netlify.app
+- LinkedIn: https://www.linkedin.com/in/kinjalhirapara/
+- Email: kinjalhirapara25@gmail.com
 
 ---

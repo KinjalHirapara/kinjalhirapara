@@ -1,6 +1,5 @@
 
-Frontend Developer with strong user interface engineering skills and practical full-stack experience.
-I specialize in building scalable, responsive, and user-friendly web interfaces, while leveraging practical backend knowledge to collaborate effectively across full-stack teams.
+Frontend Developer with expertise in building scalable, responsive, and user-friendly web interfaces while leveraging practical backend knowledge to support full-stack development.
 
 ## Tech Stack
 
@@ -51,7 +50,7 @@ I specialize in building scalable, responsive, and user-friendly web interfaces,
 
 ## Volunteer Work
 
-**Volunteer Web Developer – Youthline Christchurch**
+** Web Developer – Youthline Christchurch**
 - Improving WordPress Content and UI
 - Building new service pages and layouts
 - Performance and accessibility improvements

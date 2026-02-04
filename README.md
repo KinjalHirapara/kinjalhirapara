@@ -9,7 +9,7 @@ Frontend Developer with expertise in building scalable, responsive, and user-fri
 - React, Angular  
 - Tailwind CSS, Bootstrap  
 - Responsive & accessible UI development  
-- consuming REST API 
+- Consuming REST API 
 - Building responsive, accessible, and performance-focused user interfaces  
 
 ### Backend (Working Knowledge)

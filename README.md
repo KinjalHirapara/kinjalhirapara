@@ -27,7 +27,7 @@ Frontend Developer with expertise in building scalable, responsive, and user-fri
 
 - Version Control: Git, GitHub, Bitbucket
 - CI/CD / Build Tools: Netlify (CI/CD), Jenkins, Webpack, NPM
-- Methodologies: Agile, Scrum, DevOps practices
+- Methodologies: Agile, Scrum
 
 ### AI Tools
 
